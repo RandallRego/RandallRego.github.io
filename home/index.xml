@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on</title><link>https://randallrego.com/home/</link><description>Recent content in Homes on</description><generator>Hugo</generator><language>en</language><atom:link href="https://randallrego.com/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Home</title><link>https://randallrego.com/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://randallrego.com/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down">
+ &lt;div id="main-content">
+ 
+
+
+ 
+
+ &lt;div class="showcase-section row flex-column-reverse flex-md-row rad-fade-down rad-waiting rad-animate">
+ &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+ &lt;h1 class="display-1">
+ Hi. I&amp;#39;m Randall. 
+ &lt;/h1>
+ &lt;h2 class="display-5">
+ &lt;span>Nice to meet you.&lt;/span>
+ &lt;/h2>
+ &lt;div class="lead">
+ I’m a content creative / analyst and I have worked a variety of positions in this field including motion graphic designer, content producer, and data analyst, while managing both projects and people. 
+ &lt;/div>
+ 
+ &lt;/div>
+ &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 profile-image">
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class="">
+ 
+ 
+
+ &lt;source srcset="https://randallrego.com/images/showcase/showcase_hu_d37b8c855bc40569.webp 1x, https://randallrego.com/images/showcase/showcase_hu_bb220d2f819b63f2.webp 2x" type="image/webp" />
+ &lt;source srcset="https://randallrego.com/images/showcase/showcase_hu_36a7c350e756fdba.png 1x, https://randallrego.com/images/showcase/showcase_hu_55c9d46ab35228bc.png 2x" type="image/png">
+
+ &lt;img
+ width="790"
+ height="768"
+ class="lozad img-responsive "
+ data-src="https://randallrego.com/images/showcase/showcase_hu_36a7c350e756fdba.png"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ />
+ &lt;/picture>
+
+
+
+
+ &lt;/div>
+ &lt;div class="col-12 inner-content">
+ 
+
+
+
+
+
+&lt;div class="container">
+ &lt;div class="row platform-links shortcode">
+ &lt;div class="col-12">
+ 
+ 
+ &lt;a
+ href="https://www.linkedin.com/in/randallrego/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="linkedin"
+ >&lt;i class="icon-linkedin">&lt;/i>
+ &lt;/a>
+
+ 
+ 
+ &lt;a
+ href="https://www.youtube.com/watch?v=XtOEY_7LhD8"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="youtube"
+ >&lt;i class="icon-youtube">&lt;/i>
+ &lt;/a>
+
+ 
+ 
+ &lt;a
+ href="https://www.instagram.com/kingrandor/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="instagram"
+ >&lt;i class="icon-instagram">&lt;/i>
+ &lt;/a>
+
+ 
+ 
+ &lt;a
+ href="https://bsky.app/profile/randallrego.bsky.social"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="bluesky"
+ >&lt;i class="icon-bluesky">&lt;/i>
+ &lt;/a>
+
+&lt;/div>
+ &lt;/div>
+&lt;/div>
+
+
+
+ &lt;/div>
+ 
+
+ &lt;/div>
+
+
+ &lt;div class="row platform-links">
+ &lt;div class="col-12">&lt;/div>
+ &lt;/div>
+ &lt;/div>
+ 
+&lt;/section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;section id="about" class="section rad-animation-group pb-0">
+ &lt;div class="rad-fade-down">
+ &lt;div class="row d-flex flex-column-reverse flex-md-row">
+ &lt;div class="about__profile-picture col-12 col-md-6">
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class="">
+ 
+ 
+
+ &lt;source srcset="https://randallrego.com/images/about/user-picture_hu_2f52adf1036cedb3.webp 1x, https://randallrego.com/images/about/user-picture_hu_d54a2b04e5adc1b7.webp 2x" type="image/webp" />
+ &lt;source srcset="https://randallrego.com/images/about/user-picture_hu_d9e9c9f4ef07df5a.png 1x, https://randallrego.com/images/about/user-picture_hu_97093cd7b236a5f0.png 2x" type="image/png">
+
+ &lt;img
+ width="561"
+ height="535"
+ class="lozad img-responsive image-left-overflow"
+ data-src="https://randallrego.com/images/about/user-picture_hu_d9e9c9f4ef07df5a.png"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ />
+ &lt;/picture>
+
+ &lt;/div>
+ &lt;div class="col-12 col-md-6 my-auto">
+ &lt;h1>What can I do for you?&lt;/h1>
+ &lt;div class="about-me content lead">
+ Some description of the skills and services I provide.
+ &lt;/div>
+ 
+ &lt;a href="https://randallrego.com/skills" target="_blank" class="btn btn-primary">
+ &lt;i class="icon-user">&lt;/i>
+ Check my skills
+ &lt;/a>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+
+
+
+
+
+&lt;section id="client-and-work-section" class="section section--border-bottom">
+ &lt;div class="client-works-container">
+ &lt;h2 class="rad-animation-group rad-fade-down">
+ A selection of my work
+ &lt;/h2>
+ &lt;div class="row row--padded rad-animation-group rad-fade-down">
+ &lt;div class="col-12">
+ &lt;div class="clients">
+ 
+ &lt;div class="clients__item">
+ &lt;a href="https://www.adrianmoreno.info" aria-label="Link to the client site for Ztos (opens in a new window)" target="_blank">
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class="">
+ 
+ 
+
+ &lt;source srcset="https://randallrego.com/images/clients/ztos_hu_4d685d23c13756a2.webp 1x, https://randallrego.com/images/clients/ztos_hu_6b5aad6fb8724857.webp 2x" type="image/webp" />
+ &lt;source srcset="https://randallrego.com/images/clients/ztos_hu_db1beed8ea2082e2.png 1x, https://randallrego.com/images/clients/ztos_hu_9b4953fa847679ae.png 2x" type="image/png">
+
+ &lt;img
+ width="76"
+ height="30"
+ class="lozad img-responsive portfolio-project img-responsive"
+ data-src="https://randallrego.com/images/clients/ztos_hu_db1beed8ea2082e2.png"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ />
+ &lt;/picture>
+
+ &lt;/a>
+ &lt;/div>
+ 
+ &lt;div class="clients__item">
+ &lt;a href="https://www.adrianmoreno.info" aria-label="Link to the client site for Zoo (opens in a new window)" target="_blank">
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class="">
+ 
+ 
+
+ &lt;source srcset="https://randallrego.com/images/clients/zoo-tv_hu_7e7af81754fce5d6.webp 1x, https://randallrego.com/images/clients/zoo-tv_hu_b81c7ef9c30af4bb.webp 2x" type="image/webp" />
+ &lt;source srcset="https://randallrego.com/images/clients/zoo-tv_hu_18e20e424b8d1c80.png 1x, https://randallrego.com/images/clients/zoo-tv_hu_29ddece93ca94687.png 2x" type="image/png">
+
+ &lt;img
+ width="94"
+ height="30"
+ class="lozad img-responsive portfolio-project img-responsive"
+ data-src="https://randallrego.com/images/clients/zoo-tv_hu_18e20e424b8d1c80.png"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ />
+ &lt;/picture>
+
+ &lt;/a>
+ &lt;/div>
+ 
+ &lt;div class="clients__item">
+ &lt;a href="https://www.adrianmoreno.info" aria-label="Link to the client site for Kanba (opens in a new window)" target="_blank">
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class="">
+ 
+ 
+
+ &lt;source srcset="https://randallrego.com/images/clients/kanba_hu_3f5daa20b984088a.webp 1x, https://randallrego.com/images/clients/kanba_hu_702bd2ea790052d.webp 2x" type="image/webp" />
+ &lt;source srcset="https://randallrego.com/images/clients/kanba_hu_a646b46137901a78.png 1x, https://randallrego.com/images/clients/kanba_hu_4023e1fe28cca027.png 2x" type="image/png">
+
+ &lt;img
+ width="110"
+ height="28"
+ class="lozad img-responsive portfolio-project img-responsive"
+ data-src="https://randallrego.com/images/clients/kanba_hu_a646b46137901a78.png"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ />
+ &lt;/picture>
+
+ &lt;/a>
+ &lt;/div>
+ 
+ &lt;div class="clients__item">
+ &lt;a href="https://www.adrianmoreno.info" aria-label="Link to the client site for Goldline (opens in a new window)" target="_blank">
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class="">
+ 
+ 
+
+ &lt;source srcset="https://randallrego.com/images/clients/goldline_hu_84825c7b54e425cc.webp 1x, https://randallrego.com/images/clients/goldline_hu_633c9d6d1e1beae8.webp 2x" type="image/webp" />
+ &lt;source srcset="https://randallrego.com/images/clients/goldline_hu_7bd367f322b62e4.png 1x, https://randallrego.com/images/clients/goldline_hu_c2a247fb030d7d9b.png 2x" type="image/png">
+
+ &lt;img
+ width="129"
+ height="30"
+ class="lozad img-responsive portfolio-project img-responsive"
+ data-src="https://randallrego.com/images/clients/goldline_hu_7bd367f322b62e4.png"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ />
+ &lt;/picture>
+
+ &lt;/a>
+ &lt;/div>
+ 
+ &lt;div class="clients__item">
+ &lt;a href="https://www.adrianmoreno.info" aria-label="Link to the client site for Earth 2.0 (opens in a new window)" target="_blank">
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class="">
+ 
+ 
+
+ &lt;source srcset="https://randallrego.com/images/clients/earth-2_hu_46b1760290b5b3cf.webp 1x, https://randallrego.com/images/clients/earth-2_hu_2735fbb28cb1f84f.webp 2x" type="image/webp" />
+ &lt;source srcset="https://randallrego.com/images/clients/earth-2_hu_e2995a9b6edbcc7d.png 1x, https://randallrego.com/images/clients/earth-2_hu_6838e70b88fb9673.png 2x" type="image/png">
+
+ &lt;img
+ width="128"
+ height="30"
+ class="lozad img-responsive portfolio-project img-responsive"
+ data-src="https://randallrego.com/images/clients/earth-2_hu_e2995a9b6edbcc7d.png"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ />
+ &lt;/picture>
+
+ &lt;/a>
+ &lt;/div>
+ 
+ &lt;div class="clients__item">
+ &lt;a href="https://www.adrianmoreno.info" aria-label="Link to the client site for Asgardia (opens in a new window)" target="_blank">
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class="">
+ 
+ 
+
+ &lt;source srcset="https://randallrego.com/images/clients/asgardia_hu_9fd1ccf291f86047.webp 1x, https://randallrego.com/images/clients/asgardia_hu_511c6b065b8ea095.webp 2x" type="image/webp" />
+ &lt;source srcset="https://randallrego.com/images/clients/asgardia_hu_eada70d837de7754.png 1x, https://randallrego.com/images/clients/asgardia_hu_97198fc171439b2d.png 2x" type="image/png">
+
+ &lt;img
+ width="128"
+ height="30"
+ class="lozad img-responsive portfolio-project img-responsive"
+ data-src="https://randallrego.com/images/clients/asgardia_hu_eada70d837de7754.png"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ />
+ &lt;/picture>
+
+ &lt;/a>
+ &lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ &lt;div
+ class="row row--padded rad-animation-group rad-fade-down 
+ flex-column-reverse flex-md-row even-row"
+ >
+ 
+ &lt;div class="col-12 col-md-5 mt-4 mt-md-0 my-md-auto even">
+ &lt;h3>Swiss Fintech Website&lt;/h3>
+ &lt;div class="lead">
+ &lt;p>Here you can add additional context, description, links, etc.
+The content you see here comes from the contents of the &lt;code>content/projects&lt;/code> folder.&lt;/p></description></item></channel></rss>
